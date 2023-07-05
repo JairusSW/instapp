@@ -1,0 +1,20 @@
+{
+    "name": "instapp",
+    "version": "0.1.0",
+    "description": "",
+    "contributors": [],
+    "license": "MIT",
+    "scripts": {},
+    "devDependencies": {
+        "@neutralinojs/neu": "^9.6.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JairusSW/instapp.git"
+    },
+    "keywords": [],
+    "bugs": {
+        "url": "https://github.com/JairusSW/instapp/issues"
+    },
+    "homepage": "https://github.com/JairusSW/instapp#readme"
+}
